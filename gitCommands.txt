@@ -1,0 +1,25 @@
+task 1
+
+create a directory Rapid Application Development
+
+go to the derectory rda
+
+create another derectory call Module1
+
+go to the derectory Module1
+
+create a file index.html
+
+Add this file to your GIhUB account
+
+modify the index.html as a welcome page of your module1
+
+if u have use any .css or .js files for the design
+
+create a derectory resource inside module1
+
+inside the resources create two detrectories css, js
+
+move your .css and .js files inside those directory
+
+push all of your changes to your remote GitHub account
